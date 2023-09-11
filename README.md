@@ -14,12 +14,7 @@ Ce projet a été réalisé dans un but pédagogique. L'objectif principal est d
 
 ### Installation des outils et extensions
 
-1. **Installer Jupyter Notebook**
-    ```bash
-    pip install notebook
-    ```
-
-2. **Installer les Extensions Requises depuis VSCode**  
+1. **Installer les Extensions Requises depuis VSCode**  
    - Extension Python  
    - Extension Jupyter
 
