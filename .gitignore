@@ -1,0 +1,21 @@
+# Environnement virtuel
+venv/
+
+# Fichiers temporaires Jupyter
+*.ipynb_checkpoints/
+
+# Fichiers HTML (Si vous ne voulez pas les inclure dans le dépôt)
+*.html
+
+# Fichiers Python temporaires
+*.pyc
+*.pyo
+*.egg-info/
+__pycache__/
+
+# Fichiers de développement IDE (VSCode)
+.vscode/
+
+# Fichiers système
+.DS_Store  # Pour macOS
+Thumbs.db  # Pour Windows
